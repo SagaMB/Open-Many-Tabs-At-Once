@@ -1,0 +1,17 @@
+{
+    "name":"All in Once",
+    "description":"Opens multiple links/tabs of browsers simultaneously.",
+    "version":"1.0",
+
+    "manifest_version":2,
+
+    "browser_acton":{
+        "default_logo":"logo.png",
+        "default_action":"popup.html"
+    },
+
+    "permissions":[
+        "tabs",
+        "storage"
+    ]
+}
